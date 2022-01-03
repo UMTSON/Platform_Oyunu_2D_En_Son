@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Coin
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - Ananas
+  - Armut
+  - Hindistan Cevizi
+  - Karpuz
+  - Kiraz
+  - Kivi
+  - Muz
+  - Portakal
+  - "\xC7ilek"
+  - "\xDCz\xFCm"
+  - Telefon
+  - Radyo
+  - Kamera
+  - Bilgisayar
+  - "Ak\u0131ll\u0131 Saat"
+  - Laptop
+  - Televizyon
+  - "Yaz\u0131c\u0131"
+  - Hesap Makinesi
+  - Tablet
+  - Doktor
+  - Avukat
+  - Asker
+  - "M\xFChendis"
+  - "\xC7ift\xE7i"
+  - Sporcu
+  - Pilot
+  - Polis
+  - Astronot
+  - "M\u0130mar"
+  - Gri
+  - Kahverengi
+  - "K\u0131rm\u0131z\u0131"
+  - Mavi
+  - Mor
+  - Pembe
+  - "Sar\u0131"
+  - Siyah
+  - Turuncu
+  - "Ye\u015Fil"
+  - Biber
+  - Brokoli
+  - Lahana
+  - "Havu\xE7"
+  - "Patl\u0131can"
+  - "Sar\u0131msak"
+  - Ispanak
+  - "So\u011Fan"
+  - Turp
+  - Domates
+  - Kemer
+  - Kazak
+  - Eldiven
+  - Pantalon
+  - "K\u0131ravat"
+  - "\u015Eort"
+  - "\xC7orap"
+  - "G\xF6zl\xFCk"
+  - "Ti\u015F\xF6rt"
+  - Bere
+  - Tekli Koltuk
+  - Yatak
+  - Sehba
+  - Kanepe
+  - "Buzdolab\u0131"
+  - Lamba
+  - "F\u0131r\u0131n"
+  - Ayna
+  - Kilim
+  - Masa
+  - "Ok\xE7uluk"
+  - Masatenisi
+  - Badminton
+  - Beyzbol
+  - Basketbol
+  - Bovling
+  - Rafting
+  - Jimnastik
+  - Tenis
+  - Voleybol
+  - "U\xE7ak"
+  - Tren
+  - "Otob\xFCs"
+  - Araba
+  - Helikopter
+  - Motorsiklet
+  - Gemi
+  - Bisiklet
+  - Taksi
+  - Kamyon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
